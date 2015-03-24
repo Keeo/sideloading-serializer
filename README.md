@@ -1,7 +1,7 @@
 sideload-serializer
 ===================
 
-Minimal example for sideloading visitor to jms serializer bundle.
+Minimal example for sideloading visitor to jms serializer based on https://gist.github.com/paulferrett/9751776
 
 # installation #
 - composer install
